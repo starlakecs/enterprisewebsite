@@ -1,7 +1,7 @@
-baseURL: http://something-fresh.org/
+baseURL: http://www.starlakecs.com
 languageCode: en-us
 title: Hugo Fresh Theme
-theme: hugo-fresh-master
+theme: hugo-fresh
 publishdir: "starlakecs.github.io"
 
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
@@ -18,7 +18,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  description:
+  description: Starlake consulting services.
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/fresh.svg
