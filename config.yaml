@@ -80,14 +80,14 @@ params:
     title: Industry 
     features:
     - title: Health Care
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      text: We have expertise in bio medical device development using bare metal and RTOS based architecture. 
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Industrial Automation
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Industry 4.0
+      text: With secure connectivity as backbone for industrial automation. We provide expertise in end to end product development and lifecycle support.
       icon: doc-sync
     - title: Secure Systems
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      text: Always connected devices provide security threats. We have expertise in development of secure products.
       icon: mobile-feed
   section5: false
   footer:
