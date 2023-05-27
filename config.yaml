@@ -47,13 +47,13 @@ params:
     - title: Health Care
       url: /
     - title: Cyber Security
-      url: /
+      url: /blog/cybersecurity
     - title: SME
       url: /
   - title: Products
     sublinks:
     - title: Kiosk
-      url: /
+      url: /blog/first
     - title: Robotic Arm Controllers
       url: /
     - title: HMI
