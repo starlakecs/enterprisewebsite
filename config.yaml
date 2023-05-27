@@ -36,7 +36,7 @@ params:
     # Where the main hero button links to
     buttonlink: /agb
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: illustrations/11376173_4731142.jpg
     # Footer logos (from static/images/logos/clients/___.svg)
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
