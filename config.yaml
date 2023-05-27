@@ -2,7 +2,7 @@ baseURL: http://www.starlakecs.com
 languageCode: en-us
 title: Starlake Consulting Services
 theme: hugo-fresh
-publishdir: ".public"
+publishdir: "./public"
 
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
